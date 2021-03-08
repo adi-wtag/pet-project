@@ -1,5 +1,0 @@
-hotlink: false
-origin: 'https://www.hudsongroup.com/'
-origin_dir: sites/default/files
-use_imagecache_root: true
-verify: true
