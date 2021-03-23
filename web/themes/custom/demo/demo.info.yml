@@ -1,0 +1,4 @@
+name: 'Demo Theme'
+type: theme
+description: 'Custom Theme'
+core: 8.x
